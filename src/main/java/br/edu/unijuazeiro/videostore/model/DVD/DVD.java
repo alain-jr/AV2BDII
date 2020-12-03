@@ -24,7 +24,7 @@ public class DVD {
 
     private String category;
     
-    private Time duration;
+    private Timestamp duration;
 
     private double price;
 
